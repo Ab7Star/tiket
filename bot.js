@@ -86,4 +86,4 @@ if (message.content.toLowerCase().startsWith(prefix + `close`)) {
 
 });
 
-client.login("Ab7Star_YT");
+client.login(Ab7Star_YT);
